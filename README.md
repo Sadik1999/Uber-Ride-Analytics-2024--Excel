@@ -1,4 +1,4 @@
-### Ride-Sharing Performance Dashboard (Excel)
+## **Ride-Sharing Performance Dashboard (Excel)**
 
 An interactive Ride-Sharing Analytics Dashboard built using Microsoft Excel to analyze booking performance, revenue distribution, cancellation behavior, and customer satisfaction. This project transforms raw ride-booking data into actionable insights to help understand operational efficiency and customer trends in a ride-sharing service.
 
